@@ -50,7 +50,6 @@ The Human Connectome Project (HCP) aims at mapping the neural connections in the
 At the end of this project, we will have:
 - Jupyter script for analysis.
 - Python code for running analysis.
-- Git repository for version control.
 
 ## Results
 
