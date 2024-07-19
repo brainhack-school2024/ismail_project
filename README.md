@@ -54,27 +54,20 @@ At the end of this project, we will have:
 
 ## Results
 
+### Deliverable 1: Report Template
 
-### Tools I learned during this project
+You are currently reading the report template! Your feedback is valuable to us. Please provide any suggestions or improvements [here](https://github.com/yourusername/yourproject/issues/1).
 
-- **Meta-project**: Developing a framework while using it for the first time.
-- **Github workflow**: Demonstrating collaborative website incorporation.
-- **Project content**: Learning through student-generated project reports.
+### Deliverable 2: Project Gallery
 
-### Results
+Explore the 2020 BrainHack School project gallery [here](https://psy6983.brainhackmtl.org/project/). This gallery showcases a variety of projects from the BrainHack School, providing insights into different neuroscience research topics and methodologies.
 
-#### Deliverable 1: report template
-
-You are currently reading the report template! Please provide feedback [here](https://github.com/yourusername/yourproject/issues/) to improve.
-
-#### Deliverable 2: project gallery
-
-Explore the 2020 BrainHack School project gallery [here](https://psy6983.brainhackmtl.org/project/).
-
-#### Deliverable 3: Instructions
+### Deliverable 3: Instructions
 
 To be made available soon.
 
-## Conclusion and acknowledgement
+## Conclusion and Acknowledgement
 
-The BHS team hope you will find this template helpful in documenting your project. Development benefitted from the feedback and ideas of BHS students over the years.
+The BrainHack School team hopes that you will find this template helpful in documenting your project. Development benefited from the feedback and ideas of BrainHack School students over the years.
+
+Your interest and feedback are crucial in refining this template further and fostering a supportive community of researchers. We look forward to your contributions and hope that this template proves beneficial for documenting and sharing your own projects.
