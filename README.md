@@ -51,22 +51,37 @@ At the end of this project, we will have:
 - Jupyter script for analysis.
 - Python code for running analysis.
 
+
 ## Results
 
-### Deliverable 1: Report Template
+### Deliverables
 
-You are currently reading the report template! Your feedback is valuable to us. Please provide any suggestions or improvements [here](https://github.com/yourusername/yourproject/issues/1).
+At the end of this project, the following deliverables will be provided:
 
-### Deliverable 2: Project Gallery
+1. **Individual Connectivity Matrix for 5 Participants:**
+   - Detailed connectivity matrices depicting the strength of connections between brain regions for each of the five selected participants.
 
-Explore the 2020 BrainHack School project gallery [here](https://psy6983.brainhackmtl.org/project/). This gallery showcases a variety of projects from the BrainHack School, providing insights into different neuroscience research topics and methodologies.
+2. **Overall Connectivity Matrix for the Population:**
+   - A consolidated connectivity matrix summarizing the average connectivity patterns across all participants in the study.
 
-### Deliverable 3: Instructions
+3. **Demographic and Scores Tables:**
+   - Tables presenting demographic information (e.g., age, gender) and cognitive scores (e.g., IQ scores, memory test results) for each participant.
 
-To be made available soon.
+4. **Cognitive Scores Table:**
+   - A specific table highlighting the cognitive scores of the participants, showcasing variability in scores and potential correlations with connectivity patterns.
+
+### Results
+
+The primary findings of this study include:
+
+- **Comparison of Individual Connectivity Scores:**
+  Analysis of individual connectivity matrices revealed distinct patterns in connectivity strengths across participants.
+  
+- **Correlation with Cognitive Scores:**
+  Examination of cognitive scores alongside connectivity data indicated potential correlations between specific connectivity patterns and cognitive performance.
+
+These results provide insights into how individual differences in brain connectivity may relate to cognitive abilities, highlighting the potential for personalized neuroscientific insights and interventions.
 
 ## Conclusion and Acknowledgement
 
-The BrainHack School team hopes that you will find this template helpful in documenting your project. Development benefited from the feedback and ideas of BrainHack School students over the years.
-
-Your interest and feedback are crucial in refining this template further and fostering a supportive community of researchers. We look forward to your contributions and hope that this template proves beneficial for documenting and sharing your own projects.
+The development of this project has been enriched by the valuable feedback and ideas of BrainHack School students over the years. We hope that these findings and deliverables contribute to advancing understanding in the field of neuroscience and inspire further research in personalized cognitive assessments and interventions.
