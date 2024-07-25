@@ -32,8 +32,6 @@ image: ""
 
 Analyzing Functional Connectivity by Region of Interest (ROI) to explore the connections between specific regions in the brain using the HCP resting-state fMRI (rs-fMRI) data in relationship to cognition. This project involves selecting predefined functional regions as ROIs, and then measuring the signal fluctuations over time between these regions. This includes selection of the desired ROI’s, assigning of signals from the timeseries, preprocessing and a correlation analysis. The statistical analysis and interpretation will be in relation to cognition. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PTYs_JFKsHI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ### Tools
 
 The project will rely on the following technologies:
@@ -84,4 +82,4 @@ These results provide insights into how individual differences in brain connecti
 
 ## Conclusion and Acknowledgement
 
-The development of this project has been enriched by the valuable feedback and ideas of BrainHack School students over the years. We hope that these findings and deliverables contribute to advancing understanding in the field of neuroscience and inspire further research in personalized cognitive assessments and interventions.
+The development of this project has been enriched my understanding in the field of neuroscience and inspires me into furthering research in personalized cognitive assessments and interventions.
